@@ -4,7 +4,7 @@ import Select from "@mui/material/Select/Select";
 import MenuItem from "@mui/material/MenuItem/MenuItem";
 
 export const GeneralBox = styled(Box)(() => ({
-  top: "2rem",
+  top: "5rem",
   right: "2rem",
   position: "absolute",
 }));
